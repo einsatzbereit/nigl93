@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there, I am Nik.
+
+![SharkyStats](https://github-readme-stats.vercel.app/api?username=c0mputern1k&show_icons=true&theme=radical)
 
 <!--
 **c0mputern1k/c0mputern1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
