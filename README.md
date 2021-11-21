@@ -1,4 +1,4 @@
-### Hi there, I'm Niklas - aka Nigl 👋
+### Hi there, I'm Niklas aka. Nigl 👋
 
 ### Languages and Tools:
 
