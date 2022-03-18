@@ -4,7 +4,6 @@
 
 #### Languages:
 <p align="left">
-  <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   </p>
 
@@ -16,7 +15,6 @@
 #### Operating System:
 <p align="left">
   <img align="center" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" />
   <img align="center" src="https://img.shields.io/badge/Oraclelinux-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OracleLinux" />
   <img align="center" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RedHat" />
   <img align="center" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" alt="Suse" />
