@@ -1,6 +1,6 @@
 ### Hi there, I'm Nigl 👋
 
-### Languages, Tools and Skils:
+### Languages, Tools and Skills:
 
 #### Languages:
 <p align="left">
